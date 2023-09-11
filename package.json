@@ -1,0 +1,24 @@
+{
+  "name": "array-averager",
+  "version": "1.0.0",
+  "description": "A package that computes the average (mean) of numbers in an array. You are expected to pass in an array of numbers as an argument.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debeemedia/array-averager.git"
+  },
+  "author": "Deborah Okeke (deBee)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/debeemedia/array-averager/issues"
+  },
+  "homepage": "https://github.com/debeemedia/array-averager#readme",
+  "keywords": [
+    "array",
+    "average",
+    "mean"
+  ]
+}
